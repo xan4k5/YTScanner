@@ -1,4 +1,4 @@
-# Pizdatiy Scanner (Lite Edition)
+# YTScanner (Lite Edition)
 
 A simple Playwright-based YouTube comment scanner that detects "trigger words" in video comment sections. All trigger words are loaded from a separate `blacklist.txt` file for easy editing and customization.
 
@@ -13,6 +13,3 @@ A simple Playwright-based YouTube comment scanner that detects "trigger words" i
 - Works cross-platform (Windows, Linux, macOS).
 
 ---
-
-## 🧱 Project Structure
-
